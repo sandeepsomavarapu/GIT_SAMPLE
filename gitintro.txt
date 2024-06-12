@@ -2,3 +2,6 @@ python is object-oriented programming language
 
 
 Java is also OOPL
+
+def m1:
+	print("welcome to python")
